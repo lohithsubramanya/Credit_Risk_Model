@@ -14,7 +14,7 @@
 
 # Objective: 
 
-To use Logistic regression to analyze the credit risk worthiness of an applicant.
+To use Logistic Regression to analyze the credit risk worthiness of an applicant.
 
 
 # Result: 

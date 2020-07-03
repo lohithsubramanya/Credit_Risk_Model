@@ -19,5 +19,5 @@ To use Logistic Regression to analyze the credit risk worthiness of an applicant
 
 # Result: 
 
-Got a suitable model with a set threshold to predict the outcome(Approve/Deny)
+Prepared a suitable model with a set threshold to predict the outcome(Approve/Deny)
 Also, the model is able to optimize the cost per application.  
